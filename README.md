@@ -96,4 +96,4 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=baseleusnara&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/baseleusnara?theme=dark&font=Inter)
