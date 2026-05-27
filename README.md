@@ -6,12 +6,9 @@
 <ul>
   <li>🔭 I'am currently working on Wijaya Plywood Indonesia</li>
   <li>🤝 I'm looking to collaborate and exchange ideas on <strong>Microcontrollers, Artificial Intelligence,</strong> and <strong>Linux systems</strong></li>
-  <li>📕 I'm regularly write articles on <a href="https://medium.com/" target="_blank">
-    https://medium.com
-  </a></li>
   <li>💬 Ask me everything about <strong>web development, python, and internet of things</strong></li>
-  <li>🖥️ How to reach me? Check out my personal portfolio: <a href="https://helios-bay.vercel.app/" target="_blank">
-    https://helios-bay.vercel.app/
+  <li>🖥️ How to reach me? Check out my personal portfolio: <a href="http://dianwicaksono.my.id/" target="_blank">
+    http://dianwicaksono.my.id/
   </a></li>
   <li>⚡ Fun fact! 💓🎮 I love playin Tekken in my free time!</strong></li>
 </ul>
@@ -25,10 +22,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
         <img width="8" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/dian_wicaksono9" target="_blank">
           <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo"  />
             <img width="8" />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Liiaa-chan/Liiaa-chan/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liiaa-chan/Liiaa-chan/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Liiaa-chan/Liiaa-chan/pacman-output/galaga-contribution-graph.svg">
+</picture>
 
 ###
